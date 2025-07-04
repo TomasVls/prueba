@@ -11,7 +11,7 @@ $sql = "SELECT * FROM departamentos";
 $result = $mysqli->query($sql)
 echo $mysqli_num_rows($result);
 
-
+echo "Hola";
 
 
 
